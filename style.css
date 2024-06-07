@@ -1,0 +1,27 @@
+.box1 {
+    margin: 100px 150px 100px 80px;
+    background-color: aqua;
+}
+
+.box2 {
+    padding: 50px 30px 50px 80px;
+    background-color: wheat;
+}
+
+.box3 {
+    width: 300px;
+    background-color: violet;
+}
+
+.box4 {
+    height: 200px;
+    width: 50%;
+    background-color: aquamarine;
+}
+
+.box5 {
+    box-sizing: border-box;
+    padding: 0 25px 0 25px;
+    background-color: blue;
+    color: white;
+}
